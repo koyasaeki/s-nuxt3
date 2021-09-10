@@ -1,2 +1,8 @@
-# sandbox-nuxt
-sandbox for nuxt3
+# Nuxt3 with vite
+
+## Start App
+
+```bash
+yarn install
+yarn dev
+```
